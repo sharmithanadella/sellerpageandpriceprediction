@@ -1,0 +1,55 @@
+/* PricePredictionPage.css */
+
+.price-prediction-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .price-prediction-container h1 {
+    margin-bottom: 20px;
+  }
+  
+  .price-prediction-container form div {
+    margin-bottom: 10px;
+  }
+  
+  .price-prediction-container form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .price-prediction-container form input,
+  .price-prediction-container form select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .price-prediction-container form button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .price-prediction-container form button:hover {
+    background-color: #0056b3;
+  }
+  
+  .predicted-price {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+  }
+  
+  .predicted-price h2 {
+    margin-bottom: 10px;
+  }
+  
